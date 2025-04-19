@@ -1,3 +1,22 @@
+---
+cover: ../../../.gitbook/assets/GIT-3.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 🧙 Heroes
 
 Heroes are summoned by players to assist them in their journey through the land of Mydoslyne. These summoned heroes will aid you in your quest, but each element has its own set of strengths and weaknesses, so choose your hero wisely and build your team to your liking.
@@ -5,8 +24,6 @@ Heroes are summoned by players to assist them in their journey through the land 
 {% hint style="info" %}
 You can get your Heroes by minting or purchasing one on the marketplace.
 {% endhint %}
-
-![](../../../.gitbook/assets/Character-Banner.jpg)
 
 ## Minting Heroes
 
