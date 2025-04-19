@@ -10,11 +10,11 @@ Players can only forge their weapons five times.
 
 ## Sword Parts
 
-Sword can be varied in 4 parts and each part has its designated cards for the game. While forging these parts will be randomly passes to the forged weapon to create a new weapon and card combination within it. \
+Sword can be varied in 4 parts and each part has its designated cards for the game. While forging these parts will be randomly passes to the forged weapon to create a new weapon and card combination within it.\
 \
 The category of the sword element will be determined by the blade.
 
-![](../.gitbook/assets/273003254\_462047952071439\_9035256204137697450\_n.png)
+![](../.gitbook/assets/273003254_462047952071439_9035256204137697450_n.png)
 
 ## **Forging Fees**
 
@@ -53,12 +53,12 @@ Players will list their available pair on the marketplace and wait for the other
 
 > _They will split in half of the forged weapons._\
 > \
-> _The minimum times to forge are incremented by two._
+> &#xNAN;_&#x54;he minimum times to forge are incremented by two._
 
 {% hint style="info" %}
 _e.g._\
 \_\_\
-_A player list a collab pair on the market which has 0/5 and 0/5 forge count that will be forged four times. The other player will gather the requirements needed to forge those collab pairs. Then after gathering the required amount of RAE and SGN, and completing forging they will split all the forged weapons in half. Having each player two forged weapons._
+&#xNAN;_&#x41; player list a collab pair on the market which has 0/5 and 0/5 forge count that will be forged four times. The other player will gather the requirements needed to forge those collab pairs. Then after gathering the required amount of RAE and SGN, and completing forging they will split all the forged weapons in half. Having each player two forged weapons._
 {% endhint %}
 
 ## Cooldown Times

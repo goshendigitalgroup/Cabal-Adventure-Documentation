@@ -1,6 +1,6 @@
 # Table of contents
 
-* [⚔ Cabal Adventure](README.md)
+* [⚔️ Cabal Adventure](README.md)
 
 ## Gamebook
 
@@ -9,14 +9,14 @@
     * [🔥 Fire element](gamebook/heroes-and-elements/heroes/fire-element.md)
     * [🌊 Water element](gamebook/heroes-and-elements/heroes/water-element.md)
     * [🪦 Earth element](gamebook/heroes-and-elements/heroes/earth-element.md)
-    * [🌬 Air element](gamebook/heroes-and-elements/heroes/air-element.md)
-    * [☀ Light element](gamebook/heroes-and-elements/heroes/light-element.md)
+    * [🌬️ Air element](gamebook/heroes-and-elements/heroes/air-element.md)
+    * [☀️ Light element](gamebook/heroes-and-elements/heroes/light-element.md)
     * [🌑 Dark element](gamebook/heroes-and-elements/heroes/dark-element.md)
   * [💹 Stats](gamebook/heroes-and-elements/stats.md)
-* [🎖 Buffs and Debuffs](gamebook/buffs-and-debuffs.md)
+* [🎖️ Buffs and Debuffs](gamebook/buffs-and-debuffs.md)
 * [🎌 Classifications](gamebook/classifications.md)
-* [🗣 Specialties](gamebook/specialties.md)
-* [⚔ Swords NFT](gamebook/weapons/README.md)
+* [🗣️ Specialties](gamebook/specialties.md)
+* [⚔️ Swords NFT](gamebook/weapons/README.md)
   * [Founding Swords](gamebook/weapons/founding/README.md)
     * [Heroic](gamebook/weapons/founding/heroic/README.md)
       * [Fire](gamebook/weapons/founding/heroic/fire.md)
@@ -48,28 +48,28 @@
 * [🔥 Fire Element](cards/fire-element.md)
 * [🌊 Water Element](cards/water-element.md)
 * [🪦 Earth Element](cards/earth-element.md)
-* [🌬 Air Element](cards/air-element.md)
-* [☀ Light Element](cards/light-element.md)
+* [🌬️ Air Element](cards/air-element.md)
+* [☀️ Light Element](cards/light-element.md)
 * [🌑 Dark Element](cards/dark-element.md)
 
 ## GAME FEATURES
 
-* [⚔ Arena Battle Royale](game-features/arena-battle-royale.md)
+* [⚔️ Arena Battle Royale](game-features/arena-battle-royale.md)
 * [⚡ Stamina System](game-features/stamina-system.md)
   * [📺 HU AdRevenue System](game-features/stamina-system/hu-adrevenue-system.md)
 * [🤺 Durability System](game-features/durability-system.md)
 * [💄 Cosmetics](game-features/cosmetics.md)
 * [🔨 Forging System](gamebook/forging.md)
-* [🏛 Weekly Dungeon Quest](game-features/weekly-dungeon-quest/README.md)
-  * [⚔ Sword Dungeon Quest](game-features/weekly-dungeon-quest/sword-dungeon-quest.md)
+* [🏛️ Weekly Dungeon Quest](game-features/weekly-dungeon-quest/README.md)
+  * [⚔️ Sword Dungeon Quest](game-features/weekly-dungeon-quest/sword-dungeon-quest.md)
   * [🧚 Sprites Dungeon Quest](game-features/weekly-dungeon-quest/sprites-dungeon-quest.md)
-* [🛠 Crafting System](game-features/crafting-system.md)
-* [🖱 Fusion System](game-features/combine-system.md)
+* [🛠️ Crafting System](game-features/crafting-system.md)
+* [🖱️ Fusion System](game-features/combine-system.md)
 * [🏢 Guild System](game-features/guild-system/README.md)
-  * [⚔ Ranked Arena Battle Royale](game-features/guild-system/ranked-arena-battle-royale.md)
-  * [⚙ Guild Tech](game-features/guild-system/guild-tech.md)
-  * [🗺 Guild Expedition](game-features/guild-system/guild-expedition.md)
-  * [⚔ Guild Domination](game-features/guild-system/guild-domination.md)
+  * [⚔️ Ranked Arena Battle Royale](game-features/guild-system/ranked-arena-battle-royale.md)
+  * [⚙️ Guild Tech](game-features/guild-system/guild-tech.md)
+  * [🗺️ Guild Expedition](game-features/guild-system/guild-expedition.md)
+  * [⚔️ Guild Domination](game-features/guild-system/guild-domination.md)
     * [🎮 Cabal Adventure International League](game-features/guild-system/guild-domination/heroes-uprising-international-league.md)
   * [🏅 Guild Ranking Rewards](game-features/guild-system/guild-ranking-rewards.md)
   * [🛒 Guild Shop](game-features/guild-system/guild-shop.md)
@@ -78,7 +78,7 @@
 
 ## DAPP
 
-* [⚖ Marketplace](dapp/marketplace.md)
+* [⚖️ Marketplace](dapp/marketplace.md)
 
 ## GAME ECONOMY, TOKENS, SALE, AND FUNDS INFORMATION
 
@@ -86,7 +86,7 @@
   * [🤝 In-game Token Exchange Rate](game-economy-tokens-sale-and-funds-information/game-economic/in-game-token-exchange-rate.md)
 * [💰 Tokenomics](game-economy-tokens-sale-and-funds-information/tokenomics/README.md)
   * [🪙 Insignia (SGN)](game-economy-tokens-sale-and-funds-information/tokenomics/insignia-sgn/README.md)
-    * [🧗♂ Token Vesting Schedule](game-economy-tokens-sale-and-funds-information/tokenomics/insignia-sgn/token-vesting-schedule.md)
+    * [🧗‍♂️ Token Vesting Schedule](game-economy-tokens-sale-and-funds-information/tokenomics/insignia-sgn/token-vesting-schedule.md)
   * [🧴 Rare Amethyst Elixir (RAE)](game-economy-tokens-sale-and-funds-information/tokenomics/rare-amethyst-particle-rap.md)
     * [🧴 Rare Amethyst Particle (RAP)](game-economy-tokens-sale-and-funds-information/tokenomics/rare-amethyst-particle-rap/rare-amethyst-particle-rap.md)
 * [💸 Token Sale Information](game-economy-tokens-sale-and-funds-information/token-sale-information.md)
@@ -112,7 +112,7 @@
 
 ## GLOBAL INFORMATION
 
-* [🧑🏫 Team](global-information/team.md)
+* [🧑‍🏫 Team](global-information/team.md)
 * [💎 Roadmap](global-information/roadmap.md)
 * [🔗 Verified Social Media Links](global-information/verified-social-media-links.md)
 
